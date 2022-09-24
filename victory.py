@@ -4,7 +4,7 @@ wrong_answer = 0
 
 while rest != 'нет':
 
-    emma = int(input('Какой год рождения у Эммы Уотсон?:'))
+    emma = int(input('Каков год рождения у Эммы Уотсон?:'))
     # правильный ответ 1990
     if emma == 1990:
         correct_answer += 1
